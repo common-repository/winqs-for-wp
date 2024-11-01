@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g>
+	<rect x="4.5" y="4.5" fill="#FFFFFF" width="603" height="783"/>
+	<path fill="#BBBDBF" d="M603,9v774H9V9H603 M612,0H0v792h612V0L612,0z"/>
+</g>
+<rect x="89.1" y="73.2" fill="#626E7A" width="440" height="15"/>
+<rect x="89.1" y="122.8" fill="#626E7A" width="360" height="15"/>
+<rect x="89.1" y="303.4" fill="#626E7A" width="440" height="15"/>
+<rect x="89.1" y="358.2" fill="#626E7A" width="360" height="15"/>
+<rect x="89.1" y="413" fill="#626E7A" width="439.6" height="15"/>
+<rect x="89.1" y="608.4" fill="#626E7A" width="360" height="15"/>
+<g>
+	<g>
+		<rect x="210" y="183.1" fill="#F24C3A" width="96" height="30"/>
+		<rect x="306" y="183.1" fill="#358EEF" width="96" height="30"/>
+	</g>
+	<circle fill="#F2F7F7" cx="306" cy="198.1" r="27.5"/>
+</g>
+<g>
+	<g>
+		<rect x="210" y="466.6" fill="#F24C3A" width="96" height="30"/>
+		<rect x="306" y="466.6" fill="#358EEF" width="96" height="30"/>
+	</g>
+	<circle fill="#F2F7F7" cx="306" cy="481.6" r="27.5"/>
+</g>
+<g>
+	<g>
+		<rect x="210" y="676.5" fill="#F24C3A" width="96" height="30"/>
+		<rect x="306" y="676.5" fill="#358EEF" width="96" height="30"/>
+	</g>
+	<circle fill="#F2F7F7" cx="306" cy="691.5" r="27.5"/>
+</g>
+</svg>

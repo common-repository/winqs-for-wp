@@ -1,0 +1,8 @@
+@media print {
+    .qb-print-notification {
+        display: block !important;
+    }
+    .container {
+        display: none !important;
+    }
+}

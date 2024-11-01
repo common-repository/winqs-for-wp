@@ -1,0 +1,248 @@
+.qb-button-orange {
+    border-radius: 3px;
+    background-color: #f24c3a;
+    color:  #ffffff;
+}
+
+.qb-button-green {
+    border: 0px;
+    border-radius: 3px;
+    background-color: #70abb0;
+    color:  #ffffff;
+}
+
+.qb-button-blue {
+    border-radius: 3px;
+    background-color: #2468af;
+    color:  #ffffff;
+    padding: 0px;
+}
+
+.qb-button-read {
+    padding: 11px 11px 11px 20px;
+}
+
+.qb-read-button-premium-title {
+    color:  #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    vertical-align: top;
+}
+
+.qb-read-button-price {
+    color:  #ffffff;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.qb-logo-button {
+    width: 19px;
+    height: 22px;
+    background-image: url("../img/qbeats-icon-teal.svg");
+    display: inline-block;
+    margin-left: 20px;
+}
+/*
+    Modal
+*/
+.qb-h2 {
+    font-size: 24px;
+    text-transform: none;
+    font-weight: 600;
+}
+
+.qb-dialog-text {
+    font-size: 18px;
+    color: #3a3a3a;
+    font-weight: 400;
+}
+
+.qb-button-small {
+    font-size: 24px;
+    min-width: 173px;
+    min-height: 45px;
+}
+
+.qb-close-button {
+    float: right;
+    width: 24px;
+    height: 24px;
+    margin-bottom: 40px;
+}
+
+.col-fixed {
+    float:left;
+    width: 300px;
+}
+
+.top-buffer {
+    margin-top:20px;
+}
+
+.qb-settings-item-container {
+    padding: 15px 25px;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+}
+
+.qb-status-label {
+    font-size: 12px;
+    line-height: 18px;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    padding: 4px;
+    width: 196px;
+    text-align: center;
+    margin-top: 21px;
+    margin-bottom: 10px;
+}
+
+.qb-green-background {
+    background-color: #00b930;
+}
+
+.qb-black-background {
+    background-color: #000;
+}
+
+strong {
+    color: #303030;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.qb-horizontal-container {
+    min-width: 1070px;
+}
+
+.qb-setting-container,
+.qb-about-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.qb-setting-container {
+    width: 60%;
+    max-width: 590px;
+    padding-right: 30px;
+    border-right: 1px solid #ccc;
+    margin-right: 28px;
+}
+
+.qb-setting-content-container {
+    padding: 20px 20px 15px 20px;
+}
+
+.qb-setting-container >
+.qb-application-id-container >
+.qb-setting-content-container {
+    display: table;
+    width: 100%;
+}
+
+.qb-table-row {
+    display: table-row;
+}
+
+.qb-cell-title {
+    display: table-cell;
+    width: 1px;
+    white-space: nowrap;
+    padding-right: 10px;
+    margin-bottom: 18px;
+}
+
+.qb-cell-content {
+    display: table-cell;
+    width: 90%;
+    margin-bottom: 18px;
+}
+
+.qb-premium-stories-container >
+.qb-setting-content-container {
+    padding-top: 6px;
+}
+
+.qb-about-container {
+    width: 35%;
+    background-color: #565656;
+    color: #f2f2f2;
+    border-radius: 3px;
+    max-width: 420px;
+    padding: 1px 20px 5px 20px;
+    margin-top: 2px;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.qb-about-title {
+    font-size: 18px;
+    line-height: 18px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.qb-connect-button {
+    text-align: center;
+}
+
+.qb-connect-button > a {
+    text-decoration: none;
+    color: #FF3300;
+}
+
+.qb-print-notification {
+    display: none !important;
+    text-align: center;
+}
+
+.qb-premium-stories-image {
+    width: 44px;
+    height: 54px;
+}
+
+.grid-multi-cell {
+    display: block;
+    margin: 0 0 15px 40px;
+}
+
+.grid-multi-cell > div {
+    width: 20%;
+}
+
+.grid-cell {
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.grid-cell.col-label {
+    vertical-align: top;
+    position: relative;
+    top: 12px;
+}
+
+.col-label {
+    width: 88%;
+}
+
+.col-image {
+    width: 10%;
+}
+
+input[type="radio"]:checked+label{ font-weight: bold; }
+
+#qb-sidebar-panel > .inside {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+input[type=checkbox].qb-content-padding {
+    margin-left: 12px;
+}
+
+qb-protected-part {
+    display: block;
+}
